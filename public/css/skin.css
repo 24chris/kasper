@@ -1,0 +1,278 @@
+::selection {
+    background-color: rgb(241, 105, 59);
+}
+
+body {
+    font-family: Poppins, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgb(102, 102, 102);
+}
+
+body {
+    background-image: url("");
+}
+
+h1 {
+    font-family: Rubik, sans-serif;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 68px;
+    color: rgb(102, 102, 102);
+}
+
+h2 {
+    font-family: Rubik, sans-serif;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 52px;
+    color: rgb(102, 102, 102);
+}
+
+h3 {
+    font-family: Rubik, sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 40px;
+    color: rgb(102, 102, 102);
+}
+
+h4 {
+    font-family: Rubik, sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 34px;
+    color: rgb(102, 102, 102);
+}
+
+h5 {
+    font-family: Rubik, sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: rgb(102, 102, 102);
+}
+
+h6 {
+    font-family: Rubik, sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: rgb(102, 102, 102);
+}
+
+a {
+    color: rgb(240, 90, 33);
+}
+
+a:hover {
+    color: rgb(241, 105, 59);
+}
+
+.blog-type.type-2 .welcome-item .testimonial, .blog-type.type-2 .welcome-item .testimonial blockquote p, .widget_social_with_icon.type2 .item-box > i, .widget_text_with_icon .item-box > i, .widget_text_with_icon .icons-box-title, .widget_social_with_icon .icons-box-title, .sp-blockquote-attachment blockquote, body .widget_shopping_cart_content .woocommerce-mini-cart__total, body .product span.price, body.woocommerce-page .star-rating span::before, body .widget.woocommerce .product_list_widget .woocommerce-Price-amount, body.woocommerce-page .summary.entry-summary p.price, body.woocommerce-page table.shop_table tfoot .order-total {
+    color: rgb(240, 90, 33);
+}
+
+body .ui-slider-handle {
+    border-color: rgb(240, 90, 33);
+}
+
+.wpcf7-submit, .ui-slider-range, body #header .sc-cart-btn > span:not(.price)::after, body .shopping-cart .woocommerce-mini-cart__buttons .button, body span.onsale, body.woocommerce-page #respond input#submit, body.woocommerce-page a.button, body.woocommerce-page button.button, body.woocommerce-page input.button, body.woocommerce-page .woocommerce-checkout button#place_order {
+    background-color: rgb(240, 90, 33);
+}
+
+[class*="btn"].btn-style-2 {
+    background-color: rgb(166, 196, 55);
+    box-shadow: rgba(166, 196, 55, 0.35) 0px 5px 25px 0px;
+}
+
+input[type="radio"] + label::after, .mptt-shortcode-wrapper .mptt-shortcode-table tbody .mptt-event-container:hover, body .woocommerce-MyAccount-navigation li a {
+    background-color: rgb(166, 196, 55);
+}
+
+#content .mptt-shortcode-wrapper .mptt-shortcode-table tbody .mptt-event-container .event-title, .hr-list > li > a, .owl-prev, .owl-next, .widget .wysija-paragraph::after, .nav-links .page-numbers.current, .page-links > a:hover, .page-links > span:not(.page-links-title), body .widget_shopping_cart_content .woocommerce-mini-cart-item h6 a, body .product .product-name a, .info-links > li > a, body.woocommerce-page .product .product_title.entry-title, body .summary.entry-summary .product_meta > span a, body.woocommerce-page input#terms[type="checkbox"] + span a {
+    color: rgb(166, 196, 55);
+}
+
+body .woocommerce-MyAccount-navigation li a::after {
+    border-top-color: rgb(166, 196, 55);
+}
+
+blockquote, input[type="checkbox"] + label::after {
+    border-color: rgb(166, 196, 55);
+}
+
+.wpb_single_image .vc_single_image-wrapper.vc_box_shadow_border {
+    box-shadow: rgb(166, 196, 55) 12px -12px 0px 0px;
+}
+
+.gt-lightbox::after, .gt-link-attachment::before, .gt-blockquote-attachment::before, .gt-audio-poster::before, .gt-portfolio-holder.gt-type-1 .gt-project-image::after, .gt-portfolio-holder.gt-type-3 .gt-project-description, .gt-team-holder.gt-hover .gt-member-photo::before {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.go-to-top, .welcome-col.sticky .welcome-item span.sticky-post, .welcome-col.sticky .welcome-item .entry-body .entry-date {
+    background-color: rgb(255, 189, 10);
+}
+
+#content.sp-page-content-wrap {
+    background-color: rgb(255, 255, 255);
+}
+
+#header::before {
+    background-image: url("//velikorodnov.com/wordpress/superowly/wp-content/uploads/2019/07/rainbowstripe.jpg");
+    background-color: rgb(255, 255, 255);
+}
+
+#mobile-advanced.mobile-advanced li a {
+    border-color: rgb(234, 234, 234);
+    color: rgb(240, 90, 33);
+}
+
+#mobile-advanced.mobile-advanced > ul > li.current > a, #mobile-advanced.mobile-advanced > ul > li:hover > a {
+    background-color: rgb(240, 90, 33);
+    color: rgb(255, 255, 255);
+}
+
+#mobile-advanced.mobile-advanced > ul > li > a {
+    background-color: rgb(51, 51, 51);
+    color: rgb(255, 255, 255);
+}
+
+.nav-item .responsive-nav-button {
+    color: rgb(138, 202, 86);
+}
+
+#mobile-advanced.mobile-advanced .sp-navigation > li > .dropdown-button::after {
+    color: rgb(255, 255, 255);
+}
+
+#mobile-advanced.mobile-advanced li > .dropdown-button::after {
+    color: rgb(240, 90, 33);
+}
+
+#wrapper #header.sticky .top-header {
+    background-color: rgb(255, 255, 255);
+}
+
+#main-navigation > ul > li > a {
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#main-navigation > ul > li.current > a, #main-navigation > ul > li:hover > a {
+    color: rgb(241, 105, 59);
+}
+
+#header.header-3 #main-navigation > ul > li > a {
+    color: rgb(255, 255, 255);
+}
+
+#header.header-3 #main-navigation > ul > li.current > a, #header.header-3 #main-navigation > ul > li:hover > a {
+    color: rgb(240, 90, 33);
+}
+
+#header.header-3.sp-type-7 #main-navigation > ul > li > a {
+    color: rgb(255, 255, 255);
+}
+
+#header.header-3.sp-type-7 #main-navigation > ul > li.current > a, #header.header-3.sp-type-7 #main-navigation > ul > li:hover > a {
+    color: rgb(255, 255, 255);
+    background: rgb(240, 90, 33);
+}
+
+#header.header-2 #main-navigation > ul > li.current > a, #header.header-2 #main-navigation > ul > li:hover > a {
+    background: rgb(246, 246, 246);
+    border-top-color: rgb(240, 90, 33);
+}
+
+#header.header-3 #main-navigation > ul > li.current > a, #header.header-3 #main-navigation > ul > li:hover > a {
+    background: rgb(255, 255, 255);
+}
+
+.sub-menu-wrap ul li a {
+    font-family: Poppins, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.sub-menu-wrap ul li:hover > a, .sub-menu-wrap ul li.current > a {
+    color: rgb(241, 105, 59);
+}
+
+.sub-menu-wrap ul li a {
+    color: rgb(42, 44, 50);
+}
+
+.sub-menu-wrap {
+    background: rgb(255, 255, 255);
+}
+
+.sp-footer-holder #footer[class*="footer"]:not(.footer-3)::before {
+    background-color: rgb(255, 255, 255);
+    background-image: url("");
+}
+
+.sp-footer.footer-1 {
+    background-color: rgb(255, 255, 255);
+    background-image: url("//velikorodnov.com/wordpress/superowly/wp-content/uploads/2019/07/footer_bg.jpg");
+    color: rgb(102, 102, 102);
+}
+
+.sp-footer.footer-1 .sp-widget-title {
+    color: rgb(240, 90, 33);
+}
+
+.sp-footer.footer-2 {
+    color: rgb(102, 102, 102);
+}
+
+.sp-footer.footer-2 .sp-widget-title {
+    color: rgb(102, 102, 102);
+}
+
+#footer.footer-2::after {
+    background-color: rgb(255, 255, 255);
+    background-image: url("//velikorodnov.com/wordpress/superowly/wp-content/uploads/2019/07/footer_bottom_bg.jpg");
+}
+
+.sp-footer.footer-3 {
+    background-color: rgb(37, 37, 37);
+    background-image: url("");
+    color: rgb(102, 102, 102);
+}
+
+.sp-footer .widget li a {
+    color: rgb(166, 196, 55);
+}
+
+.sp-footer .widget li a:hover {
+    color: rgb(166, 196, 55);
+}
+
+.sp-footer .copyright-section {
+    color: rgb(133, 133, 133);
+}
+
+.sp-footer .copyright-section .sp-sub-nav li a {
+    color: rgb(166, 196, 55);
+}
+
+.sp-footer .copyright-section .sp-sub-nav li a:hover {
+    color: rgb(166, 196, 55);
+}
+
+.sp-footer .widget .latest-tweets li a {
+    color: rgb(166, 196, 55);
+}
+
+.sp-footer .widget .latest-tweets li a:hover {
+    color: rgb(166, 196, 55);
+}
+
+.sp-footer .widget select {
+    color: rgb(102, 102, 102);
+}
