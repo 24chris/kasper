@@ -1,4 +1,6 @@
-	<!-- - - - - - - - - - - - - - / Header - - - - - - - - - - - - - - -->
+@extends('layouts.app')
+@section('content')
+<!-- - - - - - - - - - - - - - / Header - - - - - - - - - - - - - - -->
 
 		
 
@@ -655,3 +657,4 @@
                 </div><!--/ .col-sm-12-->
             </div><!--/ .row-->
         </div><!--/ .container-->
+@endsection

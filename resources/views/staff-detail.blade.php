@@ -1,4 +1,5 @@
-
+@extends('layouts.app')
+@section('content')
 <div class="breadcrumbs-wrap" style="text-align:center;background-image:url(//velikorodnov.com/wordpress/superowly/wp-content/uploads/2019/07/breadcrumbs_img.jpg);background-repeat:;background-size:;background-attachment:;background-position:;background-color:#fff;color:#FFFFFF;">
 
     <div class="container">
@@ -672,3 +673,4 @@
 
 
 </div><!--/ .sp-page-content-wrap -->
+@endsection

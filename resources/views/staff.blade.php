@@ -1,4 +1,6 @@
-		
+@extends('layouts.app')
+@section('content')
+ 
 	<!-- - - - - - - - - - - - - Page Content - - - - - - - - - - - - - -->
 
 	<div id="content" class="sp-page-content-wrap sp-no-sidebar" style="margin-bottom: 330px;">
@@ -641,3 +643,7 @@
 
 
 <!-- - - - - - - - - - - - -/ Page - - - - - - - - - - - - - - -->
+
+
+@endsection
+   

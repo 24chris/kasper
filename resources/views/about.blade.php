@@ -1,3 +1,6 @@
+@extends('layouts.app')
+@section('content')
+
 <!-- - - - - - - - - - - - - Page Content - - - - - - - - - - - - - -->
 
 <div id="content" class="sp-page-content-wrap sp-left-sidebar" style="margin-bottom: 330px;">
@@ -223,3 +226,4 @@ Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auct
 
 
 </div><!--/ .sp-page-content-wrap -->
+@endsection
